@@ -200,7 +200,7 @@ Kemudian buat folder template pada direktori view kemudian buat file ``header.ph
 
 
 File ``app/view/template/footer.php`` berikut isinya
-
+```php
 </section>
         <aside id="sidebar">
             <div class="widget-box">
@@ -224,7 +224,7 @@ File ``app/view/template/footer.php`` berikut isinya
     </div>
 </body>
 </html>
-
+```
 
 Kemudian ubah file ``app/view/about.php`` seperti berikut.
 ```php
